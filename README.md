@@ -36,3 +36,7 @@ The User Interface is divided into four main components:
 - The detailed breakdown showcases the specific functionalities and operations each section provides.
 
 This comprehensive architecture allows users to interact with the system, load data, perform predictions, analyze results, and interact with the database with ease, providing a holistic approach to managing employee resignation predictions.
+
+User Interface
+
+<img src = "guide.png" />
